@@ -1,0 +1,143 @@
+body {
+    background-color: #202020;
+}
+
+.dbackground {
+    background-color: gray;
+    margin: 5px;
+    margin-top: 5px;
+    margin-right: 990px;
+    padding: 10px;
+}
+
+.container {
+    text-align: center;
+}
+
+.btnnr {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    margin-top: 2.5px;
+    height: 65px;
+    width: 75px;
+    font-size: 20px;
+    background-color: #3c3c3c;
+    border: 2px #3c3c3c;
+    border-radius: 5px;
+    color: white;
+}
+
+.btnnr:hover {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    margin-top: 2.5px;
+    height: 65px;
+    width: 75px;
+    font-size: 20px;
+    background-color: #323232;
+    border: 2px #323232;
+    border-radius: 5px;
+    color: white;
+}
+
+.btnutils {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    margin-top: 2.5px;
+    height: 65px;
+    width: 75px;
+    font-size: 20px;
+    background-color: #323232;
+    border-color: #323232;
+    border-radius: 5px;
+    border: 2px #323232;
+    color: white;
+    position: relative;
+}
+
+.btnutils:hover {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    margin-top: 2.5px;
+    height: 65px;
+    width: 75px;
+    font-size: 20px;
+    background-color: #3c3c3c;
+    border: 2px #3c3c3c;
+    border-radius: 5px;
+    color: white;
+}
+
+.btner {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    margin-top: 2.5px;
+    height: 65px;
+    width: 75px;
+    font-size: 16px;
+    background-color: #323232;
+    border-color: #323232;
+    border-radius: 5px;
+    border: 2px #323232;
+    color: white;
+    position: relative;
+}
+
+.btner:hover {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    margin-top: 2.5px;
+    height: 65px;
+    width: 75px;
+    font-size: 16px;
+    background-color: #3c3c3c;
+    border: 2px #3c3c3c;
+    border-radius: 5px;
+    color: white;
+}
+
+.btn-- {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    margin-top: 2.5px;
+    height: 65px;
+    width: 75px;
+    font-size: 20px;
+    background-color: #79b9ed;
+    border-color: #79b9ed;
+    border-radius: 5px;
+    border: 2px #79b9ed;
+    color: black;
+}
+
+.btn--:hover {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    margin-top: 2.5px;
+    height: 65px;
+    width: 75px;
+    font-size: 20px;
+    background-color: #6da9d8;
+    border: 2px #6da9d8;
+    border-radius: 5px;
+    color: black;
+}
+
+#error {
+    padding-top: 10px;
+    color: red;
+    font-size: 15px;
+    padding-left: 38%;
+    font-size: 20px;
+}
+
+#display-ruta {
+    background-color: black;
+}
+
+#display {
+    color: white;
+    font-size: 30px;
+    padding-top: 25px;
+    padding-left: 38%;
+}
